@@ -13,7 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 The authors of this website are Emma and Jen. 
 Here are the links to our github acoounts:
   Emma:https://github.com/erw95/NTRES-6100-data-science.git
+<<<<<<< HEAD
   Jen: 
+=======
+  Jen: https://github.com/jagrauer/assignment-3-jag479.git
+>>>>>>> 1acf30eae0d4dbe3a55550ffd4e3de7f9db43a5d
   
 Here is a nice image: 
 ![](https://cf.ltkcdn.net/travel/images/orig/220365-2121x1414-sackettfootbridge.jpg)
