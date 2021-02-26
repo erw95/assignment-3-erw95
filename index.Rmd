@@ -10,8 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## This is our website
-The authors of this website are Emma and Jen. 
-Here are the links to our github acoounts:
+The authors of this website are Emma and Jen. We are based in Ithaca and Nebraska, and are making this website for an assignment through the NTRES department. 
+
+To view out other projects we've been working on in this course, just click on the links to our Github acounts:
   Emma:https://github.com/erw95/NTRES-6100-data-science.git
 <<<<<<< HEAD
   Jen: 
@@ -19,5 +20,5 @@ Here are the links to our github acoounts:
   Jen: https://github.com/jagrauer/assignment-3-jag479.git
 >>>>>>> 1acf30eae0d4dbe3a55550ffd4e3de7f9db43a5d
   
-Here is a nice image: 
+And here is a nice image of Ithaca: 
 ![](https://cf.ltkcdn.net/travel/images/orig/220365-2121x1414-sackettfootbridge.jpg)

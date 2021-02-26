@@ -7,3 +7,10 @@ navbar:
       href: Emma.html
     - text: "Jen"
       href: Jen.html  
+      name: "our-website"
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
