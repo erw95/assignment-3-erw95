@@ -1,8 +1,12 @@
 output_dir: "."
 navbar:
+type: inverse
   left:
+  menu: 
+    - text: Heading 1 
     - text: "Home"
       href: index.html
+    - text: Heading 2
     - text: "Emma"
       href: Emma.html
     - text: "Jen"
