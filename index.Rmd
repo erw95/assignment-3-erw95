@@ -1,0 +1,19 @@
+---
+title: "index.Rmd"
+author: "Emma"
+date: "2/26/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is our website
+The authors of this website are Emma and Jen. 
+Here are the links to our github acoounts:
+  Emma:https://github.com/erw95/NTRES-6100-data-science.git
+  Jen: https://github.com/jagrauer/assignment-3-jag479.git
+  
+Here is a nice image: 
+![](https://cf.ltkcdn.net/travel/images/orig/220365-2121x1414-sackettfootbridge.jpg)
