@@ -5,8 +5,10 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About"
-    - href: about.html
+    - href: About.html
     - text: "Emma"
       href: Emma.html
     - text: "Jen"
-      href: Jen.html  
+      href: JenGfile.html 
+render_site
+
