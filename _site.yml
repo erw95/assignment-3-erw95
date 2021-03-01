@@ -1,8 +1,10 @@
 output_dir: "."
 navbar:
+  title: "Our Websiite"
   left:
     - text: "Home"
       href: index.html
+    - text: "About"
     - text: "Emma"
       href: Emma.html
     - text: "Jen"
