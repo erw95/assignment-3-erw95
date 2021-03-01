@@ -8,4 +8,3 @@ output: html_document
 # Some information about this site:
 
 This site was made for an R class. Jen and I are collaborating together to design a website. We hope you enjoy it!
-
